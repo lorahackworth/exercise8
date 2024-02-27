@@ -1,3 +1,4 @@
+// Gracie Hackworth, ALC, February 27th, 2024
 import java.util.Scanner;
 
 public class Main {
